@@ -1,4 +1,4 @@
-# Organisasi dan Arsitektur Komputer - Materi Komunikasi Nirkabel & Sistem Bergerak
+# Materi Komunikasi Nirkabel & Sistem Bergerak
 
 Materi untuk mata kuliah yang mencakup teknologi komunikasi nirkabel, sistem bergerak, dan teknologi terkait lainnya.
 
